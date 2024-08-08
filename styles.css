@@ -3,14 +3,6 @@ body {
     background-image: url(img3.jpg);
 }
 
-header{
-    background-color: rgba(198, 235, 198, 0.573);
-    border-style:outset;
-    padding: 2px;
-    margin-top: 2px;
-    height: 50px;
-}
-
 .tipografia1{
 font-family: Arial, Helvetica, sans-serif;
 font-size: 50px;
