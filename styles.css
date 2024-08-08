@@ -2,6 +2,22 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
+.tipografia1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+}
+
+.tipografia2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.texto{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+
+}
+
 .image{
     border: 5px solid green;
     border-radius: 10px;
