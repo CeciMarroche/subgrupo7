@@ -1,5 +1,14 @@
 body {
     background-color: rgb(255, 255, 165);
+    background-image: url(./img/img\ 3.jpg);
+}
+
+header{
+    background-color: rgba(198, 235, 198, 0.573);
+    border-style:outset;
+    padding: 2px;
+    margin-top: 2px;
+    height: 50px;
 }
 
 .image{
